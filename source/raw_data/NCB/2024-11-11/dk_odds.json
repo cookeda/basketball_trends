@@ -1,0 +1,524 @@
+[
+    [
+        {
+            "Scrape Time": "2024-11-11 12:44:42",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "+12.5",
+            "Away Spread Odds": "−112",
+            "Away ML": "+550",
+            "Home Team": "-999",
+            "Home Spread": "-12.5",
+            "Home Spread Odds": "−108",
+            "Home ML": "−800",
+            "Total": "143",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "4:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-11 12:44:49",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "+19",
+            "Away Spread Odds": "−108",
+            "Away ML": "+1100",
+            "Home Team": "-999",
+            "Home Spread": "-19",
+            "Home Spread Odds": "−112",
+            "Home ML": "−2100",
+            "Total": "147",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "6:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-11 12:44:56",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "+2.5",
+            "Away Spread Odds": "−105",
+            "Away ML": "+130",
+            "Home Team": "-999",
+            "Home Spread": "-2.5",
+            "Home Spread Odds": "−115",
+            "Home ML": "−155",
+            "Total": "148.5",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "6:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-11 12:45:03",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "+18.5",
+            "Away Spread Odds": "−110",
+            "Away ML": "+1000",
+            "Home Team": "-999",
+            "Home Spread": "-18.5",
+            "Home Spread Odds": "−110",
+            "Home ML": "−1800",
+            "Total": "167",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-11 12:45:09",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "+17",
+            "Away Spread Odds": "−110",
+            "Away ML": "+1000",
+            "Home Team": "-999",
+            "Home Spread": "-17",
+            "Home Spread Odds": "−110",
+            "Home ML": "−1800",
+            "Total": "131.5",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-11 12:45:16",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "+24.5",
+            "Away Spread Odds": "−110",
+            "Away ML": "+1800",
+            "Home Team": "-999",
+            "Home Spread": "-24.5",
+            "Home Spread Odds": "−110",
+            "Home ML": "−5000",
+            "Total": "151",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-11 12:45:23",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "+9.5",
+            "Away Spread Odds": "−112",
+            "Away ML": "+340",
+            "Home Team": "-999",
+            "Home Spread": "-9.5",
+            "Home Spread Odds": "−108",
+            "Home ML": "−440",
+            "Total": "153",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-11 12:45:30",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "+17.5",
+            "Away Spread Odds": "−112",
+            "Away ML": "+950",
+            "Home Team": "-999",
+            "Home Spread": "-17.5",
+            "Home Spread Odds": "−108",
+            "Home ML": "−1650",
+            "Total": "149",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-11 12:45:37",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "+23.5",
+            "Away Spread Odds": "−112",
+            "Away ML": "+1500",
+            "Home Team": "-999",
+            "Home Spread": "-23.5",
+            "Home Spread Odds": "−108",
+            "Home ML": "−3600",
+            "Total": "147.5",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-11 12:45:43",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "+9.5",
+            "Away Spread Odds": "−112",
+            "Away ML": "+370",
+            "Home Team": "-999",
+            "Home Spread": "-9.5",
+            "Home Spread Odds": "−108",
+            "Home ML": "−485",
+            "Total": "153",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-11 12:45:50",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "+19.5",
+            "Away Spread Odds": "−112",
+            "Away ML": "+1100",
+            "Home Team": "-999",
+            "Home Spread": "-19.5",
+            "Home Spread Odds": "−108",
+            "Home ML": "−2100",
+            "Total": "151.5",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-11 12:45:57",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "+20",
+            "Away Spread Odds": "−108",
+            "Away ML": "+1300",
+            "Home Team": "-999",
+            "Home Spread": "-20",
+            "Home Spread Odds": "−112",
+            "Home ML": "−2800",
+            "Total": "150",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-11 12:46:04",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "+15",
+            "Away Spread Odds": "−110",
+            "Away ML": "+850",
+            "Home Team": "-999",
+            "Home Spread": "-15",
+            "Home Spread Odds": "−110",
+            "Home ML": "−1450",
+            "Total": "142",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-11 12:46:10",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "+27",
+            "Away Spread Odds": "−110",
+            "Away ML": "+2000",
+            "Home Team": "-999",
+            "Home Spread": "-27",
+            "Home Spread Odds": "−110",
+            "Home ML": "−6500",
+            "Total": "123.5",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-11 12:46:17",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "+33.5",
+            "Away Spread Odds": "−110",
+            "Away ML": "+3500",
+            "Home Team": "-999",
+            "Home Spread": "-33.5",
+            "Home Spread Odds": "−110",
+            "Home ML": "−20000",
+            "Total": "141",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-11 12:46:24",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "+8.5",
+            "Away Spread Odds": "−108",
+            "Away ML": "+270",
+            "Home Team": "-999",
+            "Home Spread": "-8.5",
+            "Home Spread Odds": "−112",
+            "Home ML": "−340",
+            "Total": "143",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-11 12:46:31",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "+9",
+            "Away Spread Odds": "−108",
+            "Away ML": "+340",
+            "Home Team": "-999",
+            "Home Spread": "-9",
+            "Home Spread Odds": "−112",
+            "Home ML": "−440",
+            "Total": "151.5",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-11 12:46:38",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "+20",
+            "Away Spread Odds": "−110",
+            "Away ML": "+1200",
+            "Home Team": "-999",
+            "Home Spread": "-20",
+            "Home Spread Odds": "−110",
+            "Home ML": "−2400",
+            "Total": "156.5",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "7:30PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-11 12:46:44",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "+28",
+            "Away Spread Odds": "−110",
+            "Away ML": "+2000",
+            "Home Team": "-999",
+            "Home Spread": "-28",
+            "Home Spread Odds": "−110",
+            "Home ML": "−6500",
+            "Total": "142",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "8:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-11 12:46:51",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "+14.5",
+            "Away Spread Odds": "−110",
+            "Away ML": "+800",
+            "Home Team": "-999",
+            "Home Spread": "-14.5",
+            "Home Spread Odds": "−110",
+            "Home ML": "−1350",
+            "Total": "145",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "8:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-11 12:46:58",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "+13.5",
+            "Away Spread Odds": "−108",
+            "Away ML": "+650",
+            "Home Team": "-999",
+            "Home Spread": "-13.5",
+            "Home Spread Odds": "−112",
+            "Home ML": "−1000",
+            "Total": "148",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "8:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-11 12:47:04",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "+25.5",
+            "Away Spread Odds": "−110",
+            "Away ML": "+1800",
+            "Home Team": "-999",
+            "Home Spread": "-25.5",
+            "Home Spread Odds": "−110",
+            "Home ML": "−5000",
+            "Total": "145",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "8:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-11 12:47:11",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "+25.5",
+            "Away Spread Odds": "−110",
+            "Away ML": "+2000",
+            "Home Team": "-999",
+            "Home Spread": "-25.5",
+            "Home Spread Odds": "−110",
+            "Home ML": "−6500",
+            "Total": "147",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "8:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-11 12:47:18",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "-2.5",
+            "Away Spread Odds": "−110",
+            "Away ML": "−155",
+            "Home Team": "-999",
+            "Home Spread": "+2.5",
+            "Home Spread Odds": "−110",
+            "Home ML": "+130",
+            "Total": "148",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "8:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-11 12:47:25",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "+9",
+            "Away Spread Odds": "−112",
+            "Away ML": "+300",
+            "Home Team": "-999",
+            "Home Spread": "-9",
+            "Home Spread Odds": "−108",
+            "Home ML": "−380",
+            "Total": "159.5",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "9:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-11 12:47:31",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "+27",
+            "Away Spread Odds": "−110",
+            "Away ML": "+2000",
+            "Home Team": "-999",
+            "Home Spread": "-27",
+            "Home Spread Odds": "−110",
+            "Home ML": "−6500",
+            "Total": "150",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "9:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-11 12:47:38",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "+16",
+            "Away Spread Odds": "−112",
+            "Away ML": "+850",
+            "Home Team": "-999",
+            "Home Spread": "-16",
+            "Home Spread Odds": "−108",
+            "Home ML": "−1450",
+            "Total": "158",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "9:30PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-11 12:47:45",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "+3",
+            "Away Spread Odds": "−112",
+            "Away ML": "+136",
+            "Home Team": "-999",
+            "Home Spread": "-3",
+            "Home Spread Odds": "−108",
+            "Home ML": "−162",
+            "Total": "141.5",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "9:30PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-11 12:47:52",
+            "Book Name": "DK",
+            "Away Team": "-999",
+            "Away Spread": "+26.5",
+            "Away Spread Odds": "−110",
+            "Away ML": "+2200",
+            "Home Team": "-999",
+            "Home Spread": "-26.5",
+            "Home Spread Odds": "−110",
+            "Home ML": "−8000",
+            "Total": "134",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "10:00PM"
+        }
+    ]
+]

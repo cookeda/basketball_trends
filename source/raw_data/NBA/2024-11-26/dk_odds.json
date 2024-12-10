@@ -1,0 +1,92 @@
+[
+    [
+        {
+            "Scrape Time": "2024-11-26 07:54:45",
+            "Book Name": "DK",
+            "Away Team": "CHI Bulls",
+            "Away Spread": "-4.5",
+            "Away Spread Odds": "−110",
+            "Away ML": "−198",
+            "Home Team": "WAS Wizards",
+            "Home Spread": "+4.5",
+            "Home Spread Odds": "−110",
+            "Home ML": "+164",
+            "Total": "244",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "7:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-26 07:54:48",
+            "Book Name": "DK",
+            "Away Team": "MIL Bucks",
+            "Away Spread": "+2.5",
+            "Away Spread Odds": "−110",
+            "Away ML": "+114",
+            "Home Team": "MIA Heat",
+            "Home Spread": "-2.5",
+            "Home Spread Odds": "−110",
+            "Home ML": "−135",
+            "Total": "222.5",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "7:30PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-26 07:54:51",
+            "Book Name": "DK",
+            "Away Team": "HOU Rockets",
+            "Away Spread": "+3.5",
+            "Away Spread Odds": "−110",
+            "Away ML": "+130",
+            "Home Team": "MIN Timberwolves",
+            "Home Spread": "-3.5",
+            "Home Spread Odds": "−110",
+            "Home ML": "−155",
+            "Total": "221",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "8:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-26 07:54:53",
+            "Book Name": "DK",
+            "Away Team": "SA Spurs",
+            "Away Spread": "-3",
+            "Away Spread Odds": "−108",
+            "Away ML": "−148",
+            "Home Team": "UTA Jazz",
+            "Home Spread": "+3",
+            "Home Spread Odds": "−112",
+            "Home ML": "+124",
+            "Total": "226",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "9:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-26 07:54:56",
+            "Book Name": "DK",
+            "Away Team": "LA Lakers",
+            "Away Spread": "+3",
+            "Away Spread Odds": "−108",
+            "Away ML": "+136",
+            "Home Team": "PHO Suns",
+            "Home Spread": "-3",
+            "Home Spread Odds": "−112",
+            "Home ML": "−162",
+            "Total": "234",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "10:00PM"
+        }
+    ]
+]

@@ -1,0 +1,200 @@
+[
+    [
+        {
+            "Scrape Time": "2024-11-13 06:46:56",
+            "Book Name": "DK",
+            "Away Team": "IND Pacers",
+            "Away Spread": "-2",
+            "Away Spread Odds": "−108",
+            "Away ML": "−130",
+            "Home Team": "ORL Magic",
+            "Home Spread": "+2",
+            "Home Spread Odds": "−112",
+            "Home ML": "+110",
+            "Total": "225.5",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "7:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-13 06:46:59",
+            "Book Name": "DK",
+            "Away Team": "NO Pelicans",
+            "Away Spread": "+14.5",
+            "Away Spread Odds": "−110",
+            "Away ML": "+750",
+            "Home Team": "OKC Thunder",
+            "Home Spread": "-14.5",
+            "Home Spread Odds": "−110",
+            "Home ML": "−1200",
+            "Total": "221.5",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "7:30PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-13 06:47:02",
+            "Book Name": "DK",
+            "Away Team": "BOS Celtics",
+            "Away Spread": "-8.5",
+            "Away Spread Odds": "−112",
+            "Away ML": "−360",
+            "Home Team": "BKN Nets",
+            "Home Spread": "+8.5",
+            "Home Spread Odds": "−108",
+            "Home ML": "+285",
+            "Total": "218",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "7:40PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-13 06:47:04",
+            "Book Name": "DK",
+            "Away Team": "CLE Cavaliers",
+            "Away Spread": "-9.5",
+            "Away Spread Odds": "−110",
+            "Away ML": "−455",
+            "Home Team": "PHI 76ers",
+            "Home Spread": "+9.5",
+            "Home Spread Odds": "−110",
+            "Home ML": "+350",
+            "Total": "218",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "7:40PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-13 06:47:07",
+            "Book Name": "DK",
+            "Away Team": "CHI Bulls",
+            "Away Spread": "+8",
+            "Away Spread Odds": "−105",
+            "Away ML": "+275",
+            "Home Team": "NY Knicks",
+            "Home Spread": "-8",
+            "Home Spread Odds": "−115",
+            "Home ML": "−345",
+            "Total": "228.5",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "7:40PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-13 06:47:10",
+            "Book Name": "DK",
+            "Away Team": "DET Pistons",
+            "Away Spread": "+5.5",
+            "Away Spread Odds": "−115",
+            "Away ML": "+180",
+            "Home Team": "MIL Bucks",
+            "Home Spread": "-5.5",
+            "Home Spread Odds": "−105",
+            "Home ML": "−218",
+            "Total": "217",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "8:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-13 06:47:13",
+            "Book Name": "DK",
+            "Away Team": "WAS Wizards",
+            "Away Spread": "+9.5",
+            "Away Spread Odds": "−108",
+            "Away ML": "+350",
+            "Home Team": "SA Spurs",
+            "Home Spread": "-9.5",
+            "Home Spread Odds": "−112",
+            "Home ML": "−455",
+            "Total": "223",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "8:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-13 06:47:15",
+            "Book Name": "DK",
+            "Away Team": "LA Clippers",
+            "Away Spread": "+4.5",
+            "Away Spread Odds": "−110",
+            "Away ML": "+164",
+            "Home Team": "HOU Rockets",
+            "Home Spread": "-4.5",
+            "Home Spread Odds": "−110",
+            "Home ML": "−198",
+            "Total": "214",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "8:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-13 06:47:18",
+            "Book Name": "DK",
+            "Away Team": "MEM Grizzlies",
+            "Away Spread": "+7",
+            "Away Spread Odds": "−112",
+            "Away ML": "+230",
+            "Home Team": "LA Lakers",
+            "Home Spread": "-7",
+            "Home Spread Odds": "−108",
+            "Home ML": "−285",
+            "Total": "230.5",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "10:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-13 06:47:21",
+            "Book Name": "DK",
+            "Away Team": "PHO Suns",
+            "Away Spread": "+7.5",
+            "Away Spread Odds": "−110",
+            "Away ML": "+245",
+            "Home Team": "SAC Kings",
+            "Home Spread": "-7.5",
+            "Home Spread Odds": "−110",
+            "Home ML": "−305",
+            "Total": "225.5",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "10:10PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-11-13 06:47:23",
+            "Book Name": "DK",
+            "Away Team": "MIN Timberwolves",
+            "Away Spread": "-9",
+            "Away Spread Odds": "−110",
+            "Away ML": "−395",
+            "Home Team": "POR Trail Blazers",
+            "Home Spread": "+9",
+            "Home Spread Odds": "−110",
+            "Home ML": "+310",
+            "Total": "221.5",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "10:10PM"
+        }
+    ]
+]

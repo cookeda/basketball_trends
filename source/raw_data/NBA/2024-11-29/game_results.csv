@@ -1,0 +1,11 @@
+Away Team,Home Team,Cover Team,Closing Spread,Closing Total Line,Actual Total Score,Home Cover
+New York,Charlotte,Charlotte,12.5,220.5.,197,True
+Cleveland,Atlanta,Atlanta,5.5,243.5.,218,True
+New Orleans,Memphis,New Orleans,11.5,232.,229,False
+L.A. Clippers,Minnesota,L.A. Clippers,6.5,212.5.,185,False
+Orlando,Brooklyn,Orlando,-7.5,207.,223,False
+Boston,Chicago,Chicago,12.0,242.5.,267,True
+Detroit,Indiana,Detroit,4.5,230.,236,False
+Toronto,Miami,Miami,-8.0,219.5.,232,True
+Sacramento,Portland,Portland,7.0,225.5.,221,True
+Oklahoma City,L.A. Lakers,Oklahoma City,-3.0,229.5.,194,False

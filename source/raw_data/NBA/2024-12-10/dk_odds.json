@@ -1,0 +1,38 @@
+[
+    [
+        {
+            "Scrape Time": "2024-12-10 11:02:06",
+            "Book Name": "DK",
+            "Away Team": "ORL Magic",
+            "Away Spread": "+7",
+            "Away Spread Odds": "−110",
+            "Away ML": "+240",
+            "Home Team": "MIL Bucks",
+            "Home Spread": "-7",
+            "Home Spread Odds": "−110",
+            "Home ML": "−298",
+            "Total": "215",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-12-10 11:02:08",
+            "Book Name": "DK",
+            "Away Team": "DAL Mavericks",
+            "Away Spread": "+4.5",
+            "Away Spread Odds": "−112",
+            "Away ML": "+150",
+            "Home Team": "OKC Thunder",
+            "Home Spread": "-4.5",
+            "Home Spread Odds": "−108",
+            "Home ML": "−180",
+            "Total": "231",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "9:30PM"
+        }
+    ]
+]

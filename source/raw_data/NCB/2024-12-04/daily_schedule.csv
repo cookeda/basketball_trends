@@ -1,0 +1,68 @@
+Rank,Hotness Score,Matchup,Time,Location
+1,99.7,#2 Auburn  at  #3 Duke,9:15 PM,Cameron Indoor Stadium
+2,99.4,#7 Alabama  at  #13 N Carolina,7:15 PM,Dean E. Smith Center
+3,99.3,#10 Marquette  at  #8 Iowa St,8:00 PM,James H. Hilton Coliseum
+4,98.8,#12 Ohio St  at  #24 Maryland,6:30 PM,Xfinity Center
+5,98.7,#20 Baylor  at  #17 Connecticut,6:30 PM,Harry A. Gampel Pavilion
+6,98.2,#16 Pittsburgh  at  #29 Miss State,9:15 PM,Humphrey Coliseum
+7,96.1,#6 Kansas  at  #53 Creighton,8:30 PM,CHI Health Center Omaha
+8,95.1,#31 Texas  at  #65 NC State,9:15 PM,Lenovo Center
+9,93.6,#78 DePaul  at  #23 Texas Tech,9:15 PM,United Supermarkets Arena
+10,90.6,#32 Michigan St  at  #102 Minnesota,8:30 PM,Williams Arena
+11,90.5,#27 Oregon  at  #101 USC,10:30 PM,Galen Center
+12,90.0,#106 Virginia  at  #14 Florida,7:15 PM,Exactech Arena at the Stephen C. O'Connell Center
+13,87.3,#125 LA Tech  at  #34 Memphis,8:00 PM,FedExForum
+14,85.2,#79 Vanderbilt  at  #117 VA Tech,9:15 PM,Cassell Coliseum
+15,77.7,#162 Loyola Mymt  at  #103 Colorado St,9:00 PM,Moby Arena
+16,76.0,#110 Furman  at  #168 Fla Gulf Cst,7:00 PM,Alico Arena
+17,74.1,#148 St. Thomas  at  #144 N Colorado,8:00 PM,Bank of Colorado Arena
+18,73.9,#136 N Iowa  at  #164 IL-Chicago,8:00 PM,Credit Union 1 Arena
+19,73.8,#217 Wyoming  at  #38 Utah St,9:00 PM,Dee Glen Smith Spectrum
+20,71.1,#175 Illinois St  at  #142 Belmont,7:00 PM,Curb Event Center
+21,69.7,#237 San Jose St  at  #52 New Mexico,9:00 PM,The Pit
+22,69.6,#182 Gard-Webb  at  #149 Wofford,7:00 PM,Jerry Richardson Indoor Stadium
+23,69.1,#241 GA Southern  at  #58 VCU,7:00 PM,Stuart C. Siegel Center
+24,68.7,#95 Oklahoma St  at  #229 Tulsa,8:00 PM,Reynolds Center
+25,67.7,#126 S Dakota St  at  #215 Montana,9:00 PM,Dahlberg Arena/Robin Selvig Court
+26,66.4,#93 Fla Atlantic  at  #244 Florida Intl,6:30 PM,Ocean Bank Convocation Center (FIU)
+27,66.2,#48 San Diego St  at  #262 Fresno St,10:30 PM,Save Mart Center
+28,64.5,#99 St Bonavent  at  #246 Bucknell,7:00 PM,Sojka Pavilion
+29,62.2,#212 N Dakota St  at  #170 Weber St,9:00 PM,Dee Events Center
+30,59.1,#257 Portland St  at  #132 Seattle,10:00 PM,Redhawk Center
+31,58.9,#248 Central Conn  at  #152 U Mass,7:00 PM,William D. Mullins Memorial Center
+32,58.5,#183 Cornell  at  #226 Colgate,7:00 PM,Cotterell Court
+33,57.9,#127 Geo Wshgtn  at  #271 American,7:00 PM,Bender Arena
+34,57.1,#208 Abl Christian  at  #211 N Mex State,9:00 PM,Pan American Center
+35,54.3,#150 Columbia  at  #274 Albany,6:30 PM,Broadview Center
+36,53.7,#220 Idaho St  at  #221 South Dakota,8:00 PM,Sanford Coyote Sports Center
+37,48.5,#147 Montana St  at  #308 Neb Omaha,8:00 PM,Baxter Arena
+38,45.8,#302 Morehead St  at  #173 Marshall,7:00 PM,Cam Henderson Center
+39,44.2,#232 Youngs St  at  #261 Rob Morris,7:00 PM,UPMC Events Center
+40,43.1,#359 Alcorn St  at  #98 Wichita St,7:30 PM,Charles Koch Arena
+41,42.1,#354 NJIT  at  #121 Seton Hall,8:30 PM,Prudential Center
+42,37.3,#300 Idaho  at  #238 Kansas City,8:00 PM,Swinney Recreation Center
+43,37.1,#277 Coastal Car  at  #258 Campbell,7:00 PM,Gore Arena/Pope Convocation Center
+44,37.0,#254 Rider  at  #287 Fairfield,7:00 PM,Leo D. Mahoney Arena
+45,36.9,#315 TN Tech  at  #222 N Alabama,7:00 PM,CB&S Bank Arena at Flowers Hall
+46,36.7,#295 North Dakota  at  #242 E Washingtn,9:00 PM,Reese Court
+47,34.6,#340 F Dickinson  at  #201 Fordham,7:00 PM,Rose Hill Gymnasium
+48,34.1,#259 Monmouth  at  #294 Lehigh,7:00 PM,Stabler Arena
+49,33.5,#269 N Arizona  at  #292 Oral Roberts,8:00 PM,Mabee Center
+50,31.7,#352 W Georgia  at  #203 Mercer,11:00 AM,Hawkins Arena
+51,30.2,#335 Central Ark  at  #235 AR Lit Rock,8:00 PM,Jack Stephens Center
+52,29.7,#260 Harvard  at  #318 Holy Cross,6:00 PM,Hart Center
+53,22.7,#314 Bellarmine  at  #307 W Carolina,7:00 PM,Ramsey Center
+54,20.2,#288 WI-Grn Bay  at  #342 IU Indy,6:30 PM,Corteva Coliseum
+55,19.6,#289 Sac State  at  #347 Denver,9:00 PM,Hamilton Gymnasium
+56,13.7,#362 Coppin St  at  #297 Wagner,7:00 PM,Spiro Sports Center
+57,--,Life Pacific  at  #263 Pepperdine,9:00 PM,Firestone Fieldhouse
+57,--,Cheyney  at  #341 Morgan St,6:00 PM,Talmadge L. Hill Field House
+57,--,East-West University  at  #345 Lindenwood,7:00 PM,Robert F. Hyland Arena
+57,--,Penn State Shenango  at  #328 St Fran (PA),7:00 PM,DeGol Arena
+57,--,Brevard  at  #351 SC Upstate,7:00 PM,G.B. Hodge Center
+57,--,York College  at  #324 LIU,7:00 PM,Steinberg Wellness Center
+57,--,Arlington Baptist College  at  #134 Texas St,8:00 PM,Strahan Arena at the University Events Center
+57,--,Livingstone  at  #205 Charlotte,7:00 PM,Dale F. Halton Arena
+57,--,Virginia-Lynchburg  at  #210 Wm & Mary,7:00 PM,Kaplan Arena
+57,--,Rhodes  at  #131 Middle Tenn,7:30 PM,Murphy Center
+57,--,St. Ambrose  at  #326 W Illinois,8:00 PM,LeRoy A. Ufkes Court at Western Hall

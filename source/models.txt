@@ -1,0 +1,1 @@
+model_v0 = test model, only using nba data from 11-10-2024 and on. planning on dropping fav/dog data
