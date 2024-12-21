@@ -9,6 +9,6 @@ for _ in range(3):
     subprocess.run(['python', script1], check=True)
 
 # Run script2 once
-subprocess.run(['python', script2], check=True)
+# subprocess.run(['python', script2], check=True)
 subprocess.run(['python', 'covers_results.py'], check=True)
 # subprocess.run(['python', 'reuslts_process.py'], check=True)

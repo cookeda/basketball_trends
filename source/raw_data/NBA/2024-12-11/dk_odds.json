@@ -1,0 +1,38 @@
+[
+    [
+        {
+            "Scrape Time": "2024-12-11 07:29:54",
+            "Book Name": "DK",
+            "Away Team": "ATL Hawks",
+            "Away Spread": "+7.5",
+            "Away Spread Odds": "−115",
+            "Away ML": "+240",
+            "Home Team": "NY Knicks",
+            "Home Spread": "-7.5",
+            "Home Spread Odds": "−105",
+            "Home ML": "−298",
+            "Total": "237",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-12-11 07:29:57",
+            "Book Name": "DK",
+            "Away Team": "GS Warriors",
+            "Away Spread": "+2",
+            "Away Spread Odds": "−108",
+            "Away ML": "+105",
+            "Home Team": "HOU Rockets",
+            "Home Spread": "-2",
+            "Home Spread Odds": "−112",
+            "Home ML": "−125",
+            "Total": "222",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "9:30PM"
+        }
+    ]
+]

@@ -1,0 +1,38 @@
+[
+    [
+        {
+            "Scrape Time": "2024-12-14 10:14:45",
+            "Book Name": "DK",
+            "Away Team": "ATL Hawks",
+            "Away Spread": "+4",
+            "Away Spread Odds": "−110",
+            "Away ML": "+154",
+            "Home Team": "MIL Bucks",
+            "Home Spread": "-4",
+            "Home Spread Odds": "−110",
+            "Home ML": "−185",
+            "Total": "230",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "4:30PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-12-14 10:14:47",
+            "Book Name": "DK",
+            "Away Team": "HOU Rockets",
+            "Away Spread": "+5.5",
+            "Away Spread Odds": "−108",
+            "Away ML": "+185",
+            "Home Team": "OKC Thunder",
+            "Home Spread": "-5.5",
+            "Home Spread Odds": "−112",
+            "Home ML": "−225",
+            "Total": "216",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "8:40PM"
+        }
+    ]
+]

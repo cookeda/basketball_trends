@@ -1,0 +1,65 @@
+Rank,Hotness Score,Matchup,Time,Location
+1,97.3,#41 Oklahoma  vs.  #24 Michigan,9:00 PM,Spectrum Center
+2,95.7,#57 Xavier  at  #8 Connecticut,7:00 PM,XL Center
+3,93.9,#73 Butler  at  #14 Marquette,9:00 PM,Fiserv Forum
+4,93.7,#51 VCU  at  #63 New Mexico,9:00 PM,The Pit
+5,92.6,#60 San Francisco  at  #70 Bradley,8:00 PM,Carver Arena
+6,91.6,#39 Creighton  at  #95 Georgetown,6:30 PM,Capital One Arena
+7,91.5,#104 Samford  at  #17 Arizona,9:00 PM,McKale Memorial Center
+8,90.3,#40 Memphis  at  #103 Virginia,7:00 PM,John Paul Jones Arena
+9,87.5,#72 Wash State  at  #107 Washington,11:00 PM,Alaska Airlines Arena at Hec Edmundson Pavilion
+10,83.2,#165 Toledo  at  #5 Houston,8:00 PM,Fertitta Center
+11,80.8,#117 Davidson  at  #126 Temple,7:00 PM,The Liacouras Center
+12,79.9,#161 Cal St Nrdge  at  #82 USC,10:00 PM,Galen Center
+13,77.0,#177 Kennesaw St  at  #85 Santa Clara,10:00 PM,Leavey Center
+14,76.5,#98 Murray St  at  #174 Indiana St,7:00 PM,Hulman Center
+15,74.7,#159 Fla Gulf Cst  at  #134 NC-Wilmgton,7:00 PM,Trask Coliseum
+16,74.4,#223 Nicholls  at  #4 Gonzaga,9:00 PM,McCarthey Athletic Center
+17,73.0,#152 Wofford  at  #155 Saint Louis,8:00 PM,Chaifetz Arena
+18,72.7,#146 Elon  at  #164 E Tenn St,7:00 PM,Freedom Hall Civic Center
+19,70.4,#130 UCSB  at  #194 Loyola Mymt,10:00 PM,Gersten Pavilion
+20,69.9,#149 Northeastrn  at  #180 U Mass,7:00 PM,William D. Mullins Memorial Center
+21,67.1,#157 Montana St  at  #191 UC Riverside,10:00 PM,SRC Arena
+22,66.6,#196 Youngs St  at  #150 Wright St,7:00 PM,Nutter Center
+23,65.5,#235 Maryland BC  at  #110 GA Tech,7:30 PM,McCamish Pavilion
+24,64.5,#246 American  at  #106 St Josephs,7:00 PM,Michael J. Hagan Arena
+25,62.0,#167 Utah Valley  at  #216 Idaho St,9:00 PM,Holt Arena
+26,60.0,#7 Alabama  at  #307 North Dakota,9:00 PM,Betty Engelstad Sioux Center
+27,59.7,#200 Miami (OH)  at  #201 Vermont,7:00 PM,Patrick Gymnasium
+28,58.5,#259 Lafayette  at  #135 Geo Wshgtn,7:00 PM,Charles E. Smith Center
+29,53.5,#312 Tarleton St  at  #89 Oklahoma St,8:00 PM,Gallagher-Iba Arena
+30,51.6,#234 Richmond  at  #217 Wm & Mary,7:00 PM,Kaplan Arena
+31,51.3,#276 Austin Peay  at  #170 Ohio,7:00 PM,Convocation Center
+32,50.6,#273 Evansville  at  #178 TX-Arlington,8:00 PM,College Park Center
+32,50.6,#227 S Utah  at  #233 TX-Pan Am,7:30 PM,UTRGV Fieldhouse
+34,50.2,#282 Beth-Cook  at  #169 S Florida,7:00 PM,Yuengling Center
+35,48.9,#209 Longwood  at  #261 Campbell,7:00 PM,Gore Arena/Pope Convocation Center
+36,47.5,#351 Citadel  at  #68 Vanderbilt,8:00 PM,Memorial Gymnasium
+37,47.0,#317 Stonehill  at  #143 Mass Lowell,6:00 PM,Costello Athletic Center
+38,46.1,#176 App State  at  #301 Louisiana,8:00 PM,Cajundome
+39,43.9,#326 F Dickinson  at  #151 La Salle,6:30 PM,John Glaser Arena
+40,43.8,#358 Canisius  at  #94 Loyola-Chi,8:00 PM,Joseph J. Gentile Arena
+41,43.7,#213 Mercer  at  #286 Queens,7:00 PM,Curry Arena
+42,43.2,#364 Miss Val St  at  #86 North Texas,8:00 PM,UNT Coliseum
+43,42.6,#290 Idaho  at  #211 UC Davis,9:00 PM,University Credit Union Center
+44,41.7,#222 Central Conn  at  #287 Fairfield,7:00 PM,Leo D. Mahoney Arena
+45,41.5,#357 Alab A&M  at  #121 UAB,7:30 PM,Bartow Arena
+46,39.4,#251 Albany  at  #275 Sacred Hrt,11:00 AM,William H. Pitt Health and Recreation Center
+47,37.3,#354 N Illinois  at  #160 Illinois St,8:00 PM,CEFCU Arena - Home of the Redbirds
+48,37.1,#310 Detroit  at  #226 N Kentucky,7:00 PM,Truist Arena
+49,36.8,#269 Portland St  at  #271 Pacific,10:00 PM,Alex G. Spanos Center
+50,35.0,#225 CS Bakersfld  at  #322 Portland,10:00 PM,Chiles Center
+51,32.5,#208 Abl Christian  at  #347 TX A&M-Com,12:00 PM,The Field House
+52,28.8,#272 Mt St Marys  at  #315 LIU,7:00 PM,Steinberg Wellness Center
+53,27.3,#247 S Car State  at  #343 SC Upstate,6:00 PM,G.B. Hodge Center
+54,25.5,#311 Manhattan  at  #292 Wagner,7:00 PM,Spiro Sports Center
+55,21.7,#325 Le Moyne  at  #298 Dartmouth,11:00 AM,Leede Arena
+56,13.5,#356 Mercyhurst  at  #309 Binghamton,5:00 PM,Events Center
+57,--,Regent University  at  #268 Hampton,7:00 PM,Hampton Convocation Center
+57,--,Lincoln (MO)  at  #189 Missouri St,8:00 PM,Great Southern Bank Arena
+57,--,Lincoln (CA)  at  #187 Weber St,9:00 PM,Dee Events Center
+57,--,Tennessee Wesleyan  at  #197 Chattanooga,7:00 PM,McKenzie Arena
+57,--,Virginia-Lynchburg  at  #238 Presbyterian,2:00 PM,Ross E. Templeton Physical Education Center
+57,--,SW Adventist  at  #156 TX A&M-CC,12:00 PM,Dugan Wellness Center
+57,--,Michigan Tech  at  #329 WI-Grn Bay,12:00 PM,Resch Center
+57,--,Montreat  at  #116 Furman,7:00 PM,Timmons Arena

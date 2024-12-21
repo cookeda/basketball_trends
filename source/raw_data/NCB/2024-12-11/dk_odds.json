@@ -1,0 +1,344 @@
+[
+    [
+        {
+            "Scrape Time": "2024-12-11 07:30:24",
+            "Book Name": "DK",
+            "Away Team": "Norfolk State",
+            "Away Spread": "+26",
+            "Away Spread Odds": "−110",
+            "Away ML": "+3500",
+            "Home Team": "Baylor",
+            "Home Spread": "-26",
+            "Home Spread Odds": "−110",
+            "Home ML": "−20000",
+            "Total": "144",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "12:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-12-11 07:30:27",
+            "Book Name": "DK",
+            "Away Team": "LIU",
+            "Away Spread": "+15.5",
+            "Away Spread Odds": "−105",
+            "Away ML": "+900",
+            "Home Team": "UMass Lowell",
+            "Home Spread": "-15.5",
+            "Home Spread Odds": "−115",
+            "Home ML": "−1600",
+            "Total": "151.5",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "6:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-12-11 07:30:30",
+            "Book Name": "DK",
+            "Away Team": "UTEP",
+            "Away Spread": "+15",
+            "Away Spread Odds": "−112",
+            "Away ML": "+650",
+            "Home Team": "Louisville",
+            "Home Spread": "-15",
+            "Home Spread Odds": "−108",
+            "Home ML": "−1000",
+            "Total": "144",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-12-11 07:30:33",
+            "Book Name": "DK",
+            "Away Team": "Dartmouth",
+            "Away Spread": "+18",
+            "Away Spread Odds": "−110",
+            "Away ML": "+1100",
+            "Home Team": "Notre Dame",
+            "Home Spread": "-18",
+            "Home Spread Odds": "−110",
+            "Home ML": "−2100",
+            "Total": "140.5",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-12-11 07:30:36",
+            "Book Name": "DK",
+            "Away Team": "Bryant",
+            "Away Spread": "+22",
+            "Away Spread Odds": "−108",
+            "Away ML": "+1400",
+            "Home Team": "Saint Johns",
+            "Home Spread": "-22",
+            "Home Spread Odds": "−112",
+            "Home ML": "−3200",
+            "Total": "161",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-12-11 07:30:38",
+            "Book Name": "DK",
+            "Away Team": "Eastern Kentucky",
+            "Away Spread": "+17.5",
+            "Away Spread Odds": "−108",
+            "Away ML": "+1200",
+            "Home Team": "Pittsburgh",
+            "Home Spread": "-17.5",
+            "Home Spread Odds": "−112",
+            "Home ML": "−2400",
+            "Total": "149.5",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-12-11 07:30:41",
+            "Book Name": "DK",
+            "Away Team": "North Alabama",
+            "Away Spread": "+7",
+            "Away Spread Odds": "−108",
+            "Away ML": "+240",
+            "Home Team": "East Carolina",
+            "Home Spread": "-7",
+            "Home Spread Odds": "−112",
+            "Home ML": "−298",
+            "Total": "139.5",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-12-11 07:30:45",
+            "Book Name": "DK",
+            "Away Team": "Maine",
+            "Away Spread": "+6",
+            "Away Spread Odds": "−108",
+            "Away ML": "+220",
+            "Home Team": "Duquesne",
+            "Home Spread": "-6",
+            "Home Spread Odds": "−112",
+            "Home ML": "−270",
+            "Total": "132",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-12-11 07:30:47",
+            "Book Name": "DK",
+            "Away Team": "Marshall",
+            "Away Spread": "+5",
+            "Away Spread Odds": "−108",
+            "Away ML": "+180",
+            "Home Team": "Wright State",
+            "Home Spread": "-5",
+            "Home Spread Odds": "−112",
+            "Home ML": "−218",
+            "Total": "151.5",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-12-11 07:30:50",
+            "Book Name": "DK",
+            "Away Team": "IU Indianapolis",
+            "Away Spread": "+15",
+            "Away Spread Odds": "−108",
+            "Away ML": "+800",
+            "Home Team": "Purdue Fort Wayne",
+            "Home Spread": "-15",
+            "Home Spread Odds": "−112",
+            "Home ML": "−1350",
+            "Total": "151",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-12-11 07:30:53",
+            "Book Name": "DK",
+            "Away Team": "Milwaukee",
+            "Away Spread": "-6.5",
+            "Away Spread Odds": "−112",
+            "Away ML": "−270",
+            "Home Team": "Green Bay",
+            "Home Spread": "+6.5",
+            "Home Spread Odds": "−108",
+            "Home ML": "+220",
+            "Total": "158.5",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-12-11 07:30:58",
+            "Book Name": "DK",
+            "Away Team": "UT Martin",
+            "Away Spread": "+6",
+            "Away Spread Odds": "−112",
+            "Away ML": "+205",
+            "Home Team": "Alabama State",
+            "Home Spread": "-6",
+            "Home Spread Odds": "−108",
+            "Home ML": "−250",
+            "Total": "146.5",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "7:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-12-11 07:31:01",
+            "Book Name": "DK",
+            "Away Team": "Arkansas-Pine Bluff",
+            "Away Spread": "+10",
+            "Away Spread Odds": "−108",
+            "Away ML": "+380",
+            "Home Team": "ULM",
+            "Home Spread": "-10",
+            "Home Spread Odds": "−112",
+            "Home ML": "−500",
+            "Total": "154.5",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "7:30PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-12-11 07:31:04",
+            "Book Name": "DK",
+            "Away Team": "Colgate",
+            "Away Spread": "+30",
+            "Away Spread Odds": "−108",
+            "Away ML": "+3500",
+            "Home Team": "Kentucky",
+            "Home Spread": "-30",
+            "Home Spread Odds": "−112",
+            "Home ML": "−20000",
+            "Total": "157.5",
+            "Over Total Odds": "−110",
+            "Under Total Odds": "−110",
+            "Start Time": "8:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-12-11 07:31:07",
+            "Book Name": "DK",
+            "Away Team": "North Dakota",
+            "Away Spread": "+8",
+            "Away Spread Odds": "−108",
+            "Away ML": "+320",
+            "Home Team": "Utah Valley",
+            "Home Spread": "-8",
+            "Home Spread Odds": "−112",
+            "Home ML": "−410",
+            "Total": "145.5",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "8:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-12-11 07:31:10",
+            "Book Name": "DK",
+            "Away Team": "SE Louisiana",
+            "Away Spread": "+3.5",
+            "Away Spread Odds": "−108",
+            "Away ML": "+130",
+            "Home Team": "Louisiana",
+            "Home Spread": "-3.5",
+            "Home Spread Odds": "−112",
+            "Home ML": "−155",
+            "Total": "143.5",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "8:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-12-11 07:31:13",
+            "Book Name": "DK",
+            "Away Team": "Fresno State",
+            "Away Spread": "+28",
+            "Away Spread Odds": "−112",
+            "Away ML": "+3000",
+            "Home Team": "BYU",
+            "Home Spread": "-28",
+            "Home Spread Odds": "−108",
+            "Home ML": "−10000",
+            "Total": "155.5",
+            "Over Total Odds": "−112",
+            "Under Total Odds": "−108",
+            "Start Time": "9:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-12-11 07:31:16",
+            "Book Name": "DK",
+            "Away Team": "California Baptist",
+            "Away Spread": "+15",
+            "Away Spread Odds": "−110",
+            "Away ML": "+800",
+            "Home Team": "San Diego State",
+            "Home Spread": "-15",
+            "Home Spread Odds": "−110",
+            "Home ML": "−1350",
+            "Total": "136",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "10:00PM"
+        }
+    ],
+    [
+        {
+            "Scrape Time": "2024-12-11 07:31:19",
+            "Book Name": "DK",
+            "Away Team": "South Dakota State",
+            "Away Spread": "+10",
+            "Away Spread Odds": "−108",
+            "Away ML": "+425",
+            "Home Team": "Nevada",
+            "Home Spread": "-10",
+            "Home Spread Odds": "−112",
+            "Home ML": "−575",
+            "Total": "140",
+            "Over Total Odds": "−108",
+            "Under Total Odds": "−112",
+            "Start Time": "10:00PM"
+        }
+    ]
+]
